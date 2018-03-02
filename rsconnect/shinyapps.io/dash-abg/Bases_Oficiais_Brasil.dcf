@@ -1,0 +1,12 @@
+name: Bases_Oficiais_Brasil
+title: Bases_Oficiais_Brasil
+username:
+account: dash-abg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 243580
+bundleId: 1114058
+url: https://dash-abg.shinyapps.io/Bases_Oficiais_Brasil/
+when: 1512391296.97858
+asMultiple: FALSE
+asStatic: FALSE
